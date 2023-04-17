@@ -1,3 +1,15 @@
-p {
-  background-color: red;
+body {
+  color: brown;
+}
+
+h1 {
+  color: blue;
+}
+
+ul {
+  color: plum;
+}
+
+#thisRed {
+  color: red;
 }
